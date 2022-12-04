@@ -1,0 +1,8 @@
+#ignore files
+github
+github.pub
+
+#ignore all .txt files
+*.txt
+
+
